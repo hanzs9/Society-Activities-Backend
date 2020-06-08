@@ -1,7 +1,7 @@
 # Society-Activities-Backend
 
 ##### Interface
-![pic](www.baidu.com)
+![pic](https://github.com/hanzs9/Society-Activities-Backend/blob/master/interface.png)
 
 ### Background, aims and objectives
 
